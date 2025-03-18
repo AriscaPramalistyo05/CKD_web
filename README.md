@@ -28,17 +28,39 @@
 ```
 CKD_web/
 │
-├── index.html         # Halaman utama website
-├── css/
-│   └── style.css      # File CSS untuk styling
-├── js/
-│   └── script.js      # File JavaScript untuk interaktivitas
-├── php/
-│   └── articles.php   # Backend PHP untuk pengelolaan artikel
-├── assets/
-│   ├── images/        # Folder gambar
-│   └── icons/         # Folder ikon
-└── README.md          # Dokumentasi proyek
+├── index.html                     # Halaman utama website
+│
+├── assets/                        # Folder aset untuk CSS, JavaScript, gambar, dan vendor
+│   ├── css/                       # Folder untuk file CSS
+│   │   ├── bootstrap.css          # File CSS Bootstrap
+│   │   ├── style.css              # File CSS utama untuk styling
+│   │   ├── theme.css              # File CSS tema
+│   │
+│   ├── javascript/                # Folder untuk file JavaScript
+│   │   ├── bootstrap.bundle.min.js  # File JavaScript Bootstrap Bundle
+│   │   ├── jquery-3.5.1.min.js     # File JavaScript jQuery
+│   │   ├── script.js                # File JavaScript utama untuk interaktivitas
+│   │   ├── google-maps.js           # File JavaScript integrasi Google Maps
+│   │   ├── theme.js                 # File JavaScript tema
+│   │
+│   ├── img/                       # Folder untuk gambar (ikon, ilustrasi, dll.)
+│   │
+│   ├── vendor/                    # Folder untuk file vendor eksternal (opsional)
+│
+├── html/                          # Folder untuk halaman HTML tambahan
+│   ├── doctors.html               # Halaman informasi dokter spesialis CKD
+│   ├── contact.html               # Halaman kontak
+│   ├── informasi.html             # Halaman informasi umum tentang CKD
+│   ├── nutrisi.html               # Halaman panduan nutrisi bagi penderita CKD
+│   ├── pencegahan.html            # Halaman tips pencegahan CKD
+│   ├── pengobatan.html            # Halaman informasi pengobatan CKD
+│   ├── pola_mkn.html              # Halaman panduan pola makan sehat untuk CKD
+│   ├── rekomendasi-makanan.html    # Halaman rekomendasi makanan sehat untuk CKD
+│   ├── resep-makanan.html         # Halaman resep makanan sehat bagi penderita CKD
+│   └── tips.html                  # Halaman tips hidup sehat bagi penderita CKD
+│
+└── README.md                      # Dokumentasi proyek (file ini)
+
 ```
 
 ## Cara Menjalankan Proyek
