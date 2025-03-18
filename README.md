@@ -61,6 +61,13 @@ CKD_web/
 
 ```
 
+## Lihat Proyek
+
+1. Buka browser Anda dan akses :
+    ```
+   http://localhost/CKD_web/index.html](https://ariscapramalistyo05.github.io/CKD_web/
+   ```
+
 ## Cara Menjalankan Proyek
 
 1. Clone repositori ini:
@@ -101,6 +108,3 @@ Jika Anda memiliki pertanyaan atau saran terkait proyek ini, jangan ragu untuk m
 ---
 
 Terima kasih telah menggunakan CKD Web! Kami berharap platform ini dapat membantu meningkatkan kesadaran dan pemahaman tentang penyakit ginjal kronis. 😊
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/ckd-web-website-kesehatan-tent-71kucDdtSyeoY7KQbWym1Q?utm_source=copy_output
