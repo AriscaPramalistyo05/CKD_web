@@ -13,14 +13,12 @@
 
 - **Antarmuka Pengguna Responsif**: Desain yang ramah pengguna, dapat diakses dengan nyaman di berbagai perangkat.
 
-- **Sistem Dinamis Berbasis PHP**: Menggunakan PHP untuk mengelola konten secara dinamis.
-
 ## Teknologi yang Digunakan
 
 - **HTML5**: Struktur halaman web.
 - **CSS3**: Desain dan tata letak responsif.
 - **JavaScript**: Interaktivitas dan validasi form.
-- **PHP**: Pengelolaan backend dan integrasi database.
+- **PHP**: Pengelolaan login.
 - **GitHub Pages**: Hosting website statis.
 
 ## Struktur Direktori
