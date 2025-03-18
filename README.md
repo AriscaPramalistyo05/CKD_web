@@ -65,7 +65,7 @@ CKD_web/
 
 1. Buka browser Anda dan akses :
     ```
-   http://localhost/CKD_web/index.html](https://ariscapramalistyo05.github.io/CKD_web/
+   https://ariscapramalistyo05.github.io/CKD_web/
    ```
 
 ## Cara Menjalankan Proyek
